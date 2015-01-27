@@ -1,4 +1,4 @@
 Break-Out
 =========
 
-This is an addaptation of Break Out I wrote in Processing. It is the first program I ever wrote, so be gentle.
+This is an addaptation of Break Out I wrote in Processing during my first weeks at university.
